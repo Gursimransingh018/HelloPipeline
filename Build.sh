@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "Building code $(date)"
-~                     
+echo "Building code $(date)"                  
