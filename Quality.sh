@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "quality check $(date)"
-~                     
+echo "quality check $(date)"                   
