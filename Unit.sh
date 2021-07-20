@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "Doing unit test $(date)"
-~                     
+echo "Doing unit test $(date)"                 
