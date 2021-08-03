@@ -16,7 +16,7 @@ pipeline {
             parallel {
                 stage('Test On Linux') {
                     agent {
-                        label "Child_node"
+                        label "master_node"
                     }
                     steps {
                         echo "Task1 on Agent"
